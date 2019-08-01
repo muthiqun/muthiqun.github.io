@@ -7,3 +7,6 @@ h3 {
     font-family: cairo;
     height: 60px;
 }
+.rf-primary-nav.on-scroll{
+    background: #fff;
+}
