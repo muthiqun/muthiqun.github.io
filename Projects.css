@@ -2,3 +2,7 @@
 .rf-curated-galleries-cover {
     margin-left: 20px;
 }
+.rf-project-cover {
+    float: right;
+    text-align: right;
+}
